@@ -2,15 +2,17 @@
 date: 2016-12-24
 ---
 
-# About
+# About me
 
-Coder and Dreamer!
+
+   Coder and Dreamer!
+
 
 # Campus I Lived
 
-<img src="http://i1.piimg.com/567571/1383f502c618fa74.jpg"/>
+<img src="/about/tju_snow.jpg"/>
 
-<img src="http://p1.bpimg.com/567571/7403abb02abfcb1f.jpg"/>
+<img src="/about/tju_qingnianhu.jpg"/>
 
 # Music
 
