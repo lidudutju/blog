@@ -4,6 +4,11 @@
   margin-top: 20px;
   padding-left: 0;
   text-align: center;
+  background: rgba(255,255,255,0.65);
+  margin-left: auto;
+  margin-right: auto;
+  width:450px;
+  border-radius: initial;
 }
 
 .menu .menu-item {
@@ -17,13 +22,16 @@
 
   a {
     display: block;
-    font-size: 13px;
+    font-size: 16px;
     line-height: inherit;
     border-bottom: 1px solid $menu-link-border;
     transition-property: border-color;
     the-transition();
 
-    &:hover { border-bottom-color: $menu-link-hover-border; }
+    &:hover {
+       border-bottom-color: $menu-link-hover-border;
+       color: $menu-link-hover-border;
+     }
   }
 
   .fa { margin-right: 5px; }
