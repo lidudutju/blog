@@ -2,6 +2,7 @@
 title: 计算机学习历程
 author: lidu
 date: 2017-02-11 22:23
+tags: Private Experience
 ---
 
 ## 很奇妙的起源

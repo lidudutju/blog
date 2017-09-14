@@ -2,6 +2,7 @@
 title: 推荐一些听过的Podcast
 author: lidu
 date: 2017-02-27 23:43
+tags: Podcast
 ---
 
 2016年三月份找了一个实习，由于上班花费时间比较长，我通常会选择一些Podcast下载好在路上听。因此攒了不少质量比较不错的Podcast，在此推荐给大家。
