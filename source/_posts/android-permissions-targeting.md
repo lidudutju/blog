@@ -15,6 +15,8 @@ Android6.0系统早在2015年5月份发布，其中一个亮点就是增加了�
 
 ![](https://ws1.sinaimg.cn/large/dc50da5fly1flxv5v44r4j20sg0lc42v.jpg)
 
+<!--more-->
+
 ## 基础要点
 
 Android6.0系统是一道分水岭，在6.0系统之前，所有的系统权限都被一视同仁，开发者在AndroidManifest.xml中定义好所有APP需要的权限，然后在应用被安装时，用户只能接受所有权限并安装APP，或者拒绝安装。在应用运行时，所有预先在AndroidManifest.xml定义好的权限默认永久被授予，无需提前申请。
