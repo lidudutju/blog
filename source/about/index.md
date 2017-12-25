@@ -1,20 +1,14 @@
 ---
-date: 2016-12-24
+date: 2017-12-25
 ---
 
-# About  
-  
-Coder and Dreamer!  
+# 关于我
 
-# Campus I Lived
+你们好！我是李都，一名现居北京的Android程序员。大二期间，一门C语言的课程重新定义了我对计算机程序的认知。我痴迷于简洁、精妙且严谨的程序逻辑，从此踏上编程之路。
 
-<img src="http://i1.piimg.com/567571/1383f502c618fa74.jpg"/>
+编程之外，我在大学里自学过日语，运气爆棚的我压线通过N2考试。同时，我热爱古典小说，《红楼梦》和《安娜·卡列尼娜》是我最爱的两本。我对古典音乐也颇有兴趣，不敢说入门，只是很享受在优美的旋律奏起时，内心那久违的宁静。
 
-<img src="http://p1.bpimg.com/567571/7403abb02abfcb1f.jpg"/>
-
-# Music
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=5276803&auto=1&height=66"></iframe>
+如果你有任何问题想和我交流，可以给我发送邮件：<lidudu1995@gmail.com>
 
 
 
