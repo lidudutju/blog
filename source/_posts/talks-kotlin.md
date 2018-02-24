@@ -7,6 +7,7 @@ tags: Android、Kotlin
 
 # 前言
 
+
 说起Kotlin这门语言，我在2015年初刚学Android编程的时候听闻过，当时官方还没有出1.0稳定版，且相关的资料和Android开源项目非常少，所以也就不怎么放在心上了。
 
 第二次接触Kotlin就是在Google I/O 2017中了，Google官方宣布将Kotlin作为Android编程的官方支持语言和推荐语言。同年，Android开源社区的大神Jake Wharton从Square跳槽到Google，并从事Kotlin在Android编程中相关的研究和推广工作，开源了[几个Kotlin项目](https://github.com/JakeWharton?utf8=%E2%9C%93&tab=repositories&q=&type=&language=kotlin)和[Kotlin Style Guide](https://android.github.io/kotlin-guides/index.html)，之后Kotlin在Android编程中的应用热度大增。同样是在2017年，Kotlin的爹爹Jetbrains在11月份搞了个[第一届Kotlin大会](https://www.kotlinconf.com/2017/)，这个会议的所有分享和演讲都是关于Kotlin这门语言及其跨平台应用的内容。会议非常成功，一时之间Kotlin热度达到巅峰。
@@ -16,6 +17,7 @@ tags: Android、Kotlin
 <!--more-->
 
 # 语言优势
+
 
 官方给出的简述是：
 > Statically typed programming language for modern multiplatform applications
@@ -139,6 +141,8 @@ val person = User("lidu", 23)
 
 # 编译速度与运行时性能
 
+
+
 关于编译速度，Medium上有[一篇文章](https://medium.com/keepsafe-engineering/kotlin-vs-java-compilation-speed-e6c174b39b5d)做了详细的测试，结论大致是：
 
 1. 在Gradle不开守护进程，Clean之后再Build的情况下，Java编译速度比Kotlin快17%
@@ -148,6 +152,7 @@ val person = User("lidu", 23)
 关于运行时性能，也有[一遍文章](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks)做了详细测试，这里暂时不展开讨论了
 
 # 社区活跃度和氛围
+
 
 ![](https://ws1.sinaimg.cn/large/dc50da5fgy1forkc1nzetj21f00ue4i4.jpg)
 
@@ -159,15 +164,17 @@ val person = User("lidu", 23)
 
 Github上Kotlin的代码量在2017年飞速上涨，截至11月份，Kotlin代码行数超过2500万行。超过6300个Kotlin的相关问题在StackOverflow上被提出。去年安装Kotlin插件的开发者超过56万。
 
-## [Kotlin官方论坛](https://discuss.kotlinlang.org/)
-## [Kotlin相关链接](https://kotlin.link/)
+### [Kotlin官方论坛](https://discuss.kotlinlang.org/)
+### [Kotlin相关链接](https://kotlin.link/)
 
 # 相关工具支持
+
 
 1. Kotlin插件相关：Android Studio3.0及以上已内置Kotlin支持，无需再安装Kotlin插件，Android3.0以下需安装[Kotlin插件](https://plugins.jetbrains.com/plugin/6954-kotlin)
 2. 使用Anko库用DSL替代xml文件的方式来写布局文件，需使用插件预览样式—[Anko预览插件](https://plugins.jetbrains.com/plugin/7734-anko-support)
 
 # 参考内容
+
 
 1. [Kotlin Reference](https://kotlinlang.org/docs/reference/)
 2. [Using Project Kotlin for Android
