@@ -18,6 +18,8 @@ tags: Android
 下面从一个最基础的Android面试题开始讲起对象池技术：
 > 我们在使用Handler发送消息时，为什么不new一个Message，而是使用Message.obtain()方法来获取Message呢？
 
+<!--more-->
+
 相信每一位做过Android开发的童鞋都能异口同声答出：
 > 因为Handler机制中的Message利用了对象池技术，使用过的Message可以被暂存到Message Pool中。利用Message.obtain()方法就是从这个Message Pool中取可以被复用的Message，避免重新创建Message对象，提高获取Message对象的速度。
 
